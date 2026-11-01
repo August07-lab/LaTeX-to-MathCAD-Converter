@@ -7,6 +7,7 @@ However, it performs reasonably well with common mathematical expressions, inclu
 3. Trigonometric functions.
 4. Common mathematical operations and functions.
 5. Matrix
+6. Derevative and Integral
 
 Certain complex, uncommon, or specially formatted equations may not be detected or converted correctly.
 The converter is continuously open to improvements, and further development is needed to enhance its accuracy, reliability, and support for more complex mathematical expressions.
